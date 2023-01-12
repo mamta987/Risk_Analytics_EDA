@@ -1,4 +1,10 @@
 # Risk Analytics Exploratory Data Analysis
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=yellow)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+
 
 ## Introduction 
 
@@ -75,10 +81,3 @@ When a company receives a loan application, the company has to decide for loan a
       * Low credit amount
       * Cash loans
       * Low income category
-
-
-
-
-
-
-
